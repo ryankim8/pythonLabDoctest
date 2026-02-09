@@ -1,6 +1,6 @@
 # Lab: doctests + continuous integration
 
-<img src="https://github.com/ryankim8/pythonLabDoctest/workflows/test.yaml/badge.svg" />
+<img src="https://github.com/ryankim8/pythonLabDoctest/workflows/tests/badge.svg" />
 
 **Instructions:**
 
